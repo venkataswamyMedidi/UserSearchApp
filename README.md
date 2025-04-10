@@ -4,17 +4,17 @@ git clone https://github.com/venkataswamyMedidi/UserSearchApp
 
 # Install dependencies
 npm install
-# OR
+OR
 yarn install
 
 # User Search React App - Setup Instructions
 This document provides instructions on how to set up, run, and host the User Search React application that uses the RocketAPI for Instagram user search.
 
-# Prerequisites
+ Prerequisites
 
-# Node.js (v14.0.0 or higher)
-# npm (v6.0.0 or higher) or yarn
-# RapidAPI account with access to RocketAPI
+Node.js (v14.0.0 or higher)
+npm (v6.0.0 or higher) or yarn
+RapidAPI account with access to RocketAPI
 
 # Features
 User-friendly search interface with real-time validation
@@ -23,7 +23,7 @@ Responsive design with a clean, modern UI
 User profile cards displaying username, full name, and profile picture
 API integration with RocketAPI for Instagram user search
 
-# OR
+OR
 
 # Installation
 
@@ -34,7 +34,7 @@ cd user-search-app
 
 # Replace the files with the code provided:
 
-# Replace src/App.js with the provided App.js code
+Replace src/App.js with the provided App.js code
 Create and populate these new files:
 
 src/components/SearchBar.js
@@ -42,8 +42,6 @@ src/components/UserGrid.js
 src/components/UserCard.js
 src/services/api.js
 
-
-# Replace src/App.css with the provided CSS code
 
 # API Key Security Note
 
@@ -57,7 +55,7 @@ Running the Application Locally
 # Start the development server:
 
 bashnpm start
-# or if using yarn
+or if using yarn
 yarn start
 
 # Access the application:
