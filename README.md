@@ -1,7 +1,6 @@
 # Clone the repository
 
-git clone https://github.com/yourusername/instagram-user-search.git
-cd instagram-user-search
+git clone https://github.com/venkataswamyMedidi/UserSearchApp
 
 # Install dependencies
 npm install
