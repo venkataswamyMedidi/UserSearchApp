@@ -18,9 +18,13 @@ RapidAPI account with access to RocketAPI
 
 # Features
 User-friendly search interface with real-time validation
+
 Alphanumeric search with 30-character limit
+
 Responsive design with a clean, modern UI
+
 User profile cards displaying username, full name, and profile picture
+
 API integration with RocketAPI for Instagram user search
 
 OR
