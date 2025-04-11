@@ -34,16 +34,21 @@ OR
 Create a new React application:
 
 bashnpx create-react-app user-search-app
+
 cd user-search-app
 
 # Replace the files with the code provided:
 
 Replace src/App.js with the provided App.js code
+
 Create and populate these new files:
 
 src/components/SearchBar.js
+
 src/components/UserGrid.js
+
 src/components/UserCard.js
+
 src/services/api.js
 
 
@@ -69,9 +74,13 @@ The application should now be running and you can search for users
 
 # Contributing
 Fork the repository.
+
 Create a new branch.
+
 Commit your changes.
+
 Open a pull request.
 
 # License
+
 This project is licensed under the MIT License.
